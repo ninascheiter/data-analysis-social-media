@@ -19,3 +19,7 @@ For this analysis, the data was pre-processed and aggregated into smaller, struc
 - **Matplotlib, Seaborn** (visualization)  
 - **Jupyter Notebooks** (interactive analysis)  
 - **Docker** (containerized environment for reproducibility)  
+
+## Interesting finds
+<img width="1096" height="645" alt="weekdaymood" src="https://github.com/user-attachments/assets/0918641a-09b7-4219-9416-eab43710788a" />
+- it seems that Thursday has the most negative impact on the mood of users whereas sunday shows the most improvement on the mood
